@@ -5,6 +5,7 @@
 ## How to run
 * Download [Gesture recognition mediapipe AAR](https://drive.google.com/drive/folders/1qIf4n1FqCXyk7xnG9dwz8RBGlTojK7a_?usp=sharing)
 * Insert into directory app/libs
+* Build with Android Studio
 
 
 # References
