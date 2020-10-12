@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Gesture Recognition Android</string>
+    <string name="no_camera_access">Please grant camera permissions</string>
 </resources>
